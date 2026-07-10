@@ -40,3 +40,12 @@ results/
 The final processed datasets are available in the `results/final_data` folder.
 
 **Note:** No machine learning model has been trained in this milestone.
+
+
+## Milestone 3
+
+- Trained Logistic Regression model
+- Evaluated the model using Accuracy and Classification Report
+- Generated Confusion Matrix
+- Saved Trained mosel (.pkl)
+- Saved evaluation metrics and result graphs
